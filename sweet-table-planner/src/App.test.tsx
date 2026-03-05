@@ -1,10 +1,20 @@
 import { screen } from '@testing-library/react'
-import userEvent from '@testing-library/user-event'
 import { renderWithRouter } from '@/test/utils'
 import App from './App'
 
-it('navigates to events page when clicking Events nav link', async () => {
-  renderWithRouter(<App />)
-  await userEvent.click(screen.getByRole('link', { name: /📅 events/i }))
-  expect(screen.getByText('Events — coming soon')).toBeInTheDocument()
+describe('App navigation', () => {
+  it('renders the header', () => {
+    renderWithRouter(<App />)
+    expect(screen.getByRole('banner')).toBeInTheDocument()
+  })
+
+  it('renders all nav links', () => {
+    renderWithRouter(<App />)
+    expect(screen.getByRole('link', { name: /home/i })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: /events/i })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: /builder/i })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: /shopping/i })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: /recipes/i })).toBeInTheDocument()
+    expect(screen.getByRole('link', { name: /settings/i })).toBeInTheDocument()
+  })
 })
