@@ -8,6 +8,7 @@ import '@fontsource/dm-sans/300.css'
 import '@fontsource/dm-sans/400.css'
 import '@fontsource/dm-sans/500.css'
 import './index.css'
+import './i18n'
 import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
@@ -15,5 +16,5 @@ createRoot(document.getElementById('root')!).render(
     <BrowserRouter>
       <App />
     </BrowserRouter>
-  </StrictMode>,
+  </StrictMode>
 )

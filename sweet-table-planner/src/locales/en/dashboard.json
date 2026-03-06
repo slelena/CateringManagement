@@ -1,0 +1,15 @@
+{
+  "greeting": "Good morning! 🌸",
+  "subtitle": "Here's your catering overview",
+  "stats": {
+    "totalEvents": "Total Events",
+    "totalRevenue": "Total Revenue",
+    "thisMonth": "This Month",
+    "avgPrice": "Avg. Price"
+  },
+  "upcomingEvents": "Upcoming Events",
+  "emptyState": {
+    "message": "No upcoming events",
+    "hint": "Add your first event in the Events page"
+  }
+}

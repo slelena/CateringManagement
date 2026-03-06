@@ -1,0 +1,30 @@
+.switcher {
+  display: flex;
+  gap: 2px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 3px;
+}
+
+.btn {
+  background: none;
+  border: none;
+  color: rgba(253, 246, 238, 0.55);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s;
+  letter-spacing: 0.5px;
+}
+
+.btn:hover {
+  color: var(--blush);
+}
+
+.active {
+  background: var(--deep-rose);
+  color: var(--cream) !important;
+}

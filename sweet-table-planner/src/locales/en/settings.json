@@ -1,0 +1,41 @@
+{
+  "title": "Settings",
+  "subtitle": "Manage your sweet table items and categories",
+  "categories": {
+    "title": "Categories",
+    "namePlaceholder": "e.g. Pastries",
+    "emojiPlaceholder": "🥐",
+    "addButton": "Add",
+    "deleteConfirm": "Delete this category?",
+    "hasItemsError": "Remove items in this category first"
+  },
+  "items": {
+    "title": "All Items",
+    "all": "All",
+    "addTitle": "Add New Item",
+    "editTitle": "Edit Item",
+    "namePlaceholder": "e.g. Chocolate Truffles",
+    "costPlaceholder": "2.50",
+    "unitPlaceholder": "each / tray / lb",
+    "notesPlaceholder": "e.g. Seasonal, gluten-free...",
+    "saveChanges": "Save Changes",
+    "addItem": "Add Item",
+    "deleteConfirm": "Delete this item?",
+    "emptyState": "No items in this category yet"
+  },
+  "form": {
+    "name": "Item Name",
+    "cost": "Your Cost ($)",
+    "unit": "Unit",
+    "category": "Category",
+    "emoji": "Emoji Icon",
+    "notes": "Notes (optional)"
+  },
+  "toast": {
+    "categoryAdded": "Category added! 🗂",
+    "categoryDeleted": "Category deleted",
+    "itemAdded": "Item added! 🍬",
+    "itemUpdated": "Item updated ✓",
+    "itemDeleted": "Item deleted"
+  }
+}

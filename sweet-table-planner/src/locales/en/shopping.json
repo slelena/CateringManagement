@@ -1,0 +1,10 @@
+{
+  "title": "Shopping List",
+  "subtitle": "Everything you need to buy",
+  "allEvents": "All Events",
+  "print": "Print",
+  "emptyState": {
+    "message": "No items yet",
+    "hint": "Build a sweet table first"
+  }
+}

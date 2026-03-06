@@ -1,0 +1,21 @@
+{
+  "save": "Sačuvaj",
+  "cancel": "Otkaži",
+  "delete": "Obriši",
+  "edit": "Uredi",
+  "add": "Dodaj",
+  "loading": "Učitavanje",
+  "error": "Nešto je pošlo naopako",
+  "noData": "Nema podataka",
+  "confirm": "Da li ste sigurni?",
+  "yes": "Da",
+  "no": "Ne",
+  "nav": {
+    "home": "Početna",
+    "events": "Događaji",
+    "builder": "Kreator",
+    "shopping": "Kupovina",
+    "recipes": "Recepti",
+    "settings": "Podešavanja"
+  }
+}

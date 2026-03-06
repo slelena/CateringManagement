@@ -1,0 +1,10 @@
+{
+  "title": "Lista za kupovinu",
+  "subtitle": "Sve što treba da kupite",
+  "allEvents": "Svi događaji",
+  "print": "Štampaj",
+  "emptyState": {
+    "message": "Nema stavki",
+    "hint": "Najpre kreirajte slatki sto"
+  }
+}

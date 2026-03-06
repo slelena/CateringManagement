@@ -1,0 +1,21 @@
+{
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "add": "Add",
+  "loading": "Loading",
+  "error": "Something went wrong",
+  "noData": "No data yet",
+  "confirm": "Are you sure?",
+  "yes": "Yes",
+  "no": "No",
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "builder": "Builder",
+    "shopping": "Shopping",
+    "recipes": "Recipes",
+    "settings": "Settings"
+  }
+}

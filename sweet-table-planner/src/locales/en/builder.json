@@ -1,0 +1,23 @@
+{
+  "title": "Sweet Table Builder",
+  "subtitle": "Design the perfect spread",
+  "summary": "Table Summary",
+  "assignToEvent": "Assign to Event",
+  "costTotal": "Cost Total",
+  "markup": "Markup %",
+  "clientPrice": "Client Price",
+  "profit": "Your Profit",
+  "saveToEvent": "Save to Event",
+  "clearTable": "Clear Table",
+  "clearConfirm": "Clear all selected items?",
+  "emptyState": {
+    "message": "No items yet",
+    "hint": "Add items in Settings"
+  },
+  "summaryEmpty": "Select items to build your table",
+  "toast": {
+    "saved": "Saved to event! 🍰",
+    "selectEvent": "Please select an event first",
+    "addItems": "Add some items first"
+  }
+}

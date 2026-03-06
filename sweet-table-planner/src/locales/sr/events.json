@@ -1,0 +1,50 @@
+{
+  "title": "Događaji",
+  "subtitle": "Upravljajte vašim keterinzima",
+  "newEvent": "Novi događaj",
+  "editEvent": "Uredi događaj",
+  "addEvent": "Dodaj događaj",
+  "saveChanges": "Sačuvaj izmene",
+  "emptyState": {
+    "message": "Nema događaja",
+    "hint": "Kliknite Novi događaj da dodate prvo rezervaciju"
+  },
+  "card": {
+    "client": "Klijent",
+    "guests": "Gosti",
+    "price": "Cena"
+  },
+  "form": {
+    "eventName": "Naziv događaja",
+    "eventNamePlaceholder": "npr. Sofijin rođendan",
+    "clientName": "Ime klijenta",
+    "clientNamePlaceholder": "Puno ime klijenta",
+    "date": "Datum",
+    "guests": "Gosti",
+    "eventType": "Vrsta događaja",
+    "status": "Status",
+    "notes": "Napomene",
+    "notesPlaceholder": "Tema, posebni zahtevi..."
+  },
+  "types": {
+    "birthday": "Rođendan",
+    "babyShower": "Baby shower",
+    "wedding": "Venčanje",
+    "bridalShower": "Devojacko veče",
+    "graduation": "Matura",
+    "corporate": "Korporativni",
+    "other": "Ostalo"
+  },
+  "status": {
+    "planning": "Planiranje",
+    "confirmed": "Potvrđeno",
+    "pending": "Na čekanju",
+    "completed": "Završeno"
+  },
+  "toast": {
+    "added": "Događaj dodat! 🎉",
+    "updated": "Događaj ažuriran ✓",
+    "deleted": "Događaj obrisan"
+  },
+  "deleteConfirm": "Obrisati ovaj događaj?"
+}

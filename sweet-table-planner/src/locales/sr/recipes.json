@@ -1,0 +1,43 @@
+{
+  "title": "Recepti",
+  "subtitle": "Vaša lična knjiga recepata",
+  "addRecipe": "Dodaj recept",
+  "editRecipe": "Uredi recept",
+  "searchPlaceholder": "Pretraži recepte...",
+  "selectRecipe": "Odaberite recept za pregled",
+  "ingredients": "Sastojci",
+  "steps": "Koraci",
+  "tips": "Saveti i napomene",
+  "emptyState": {
+    "message": "Nema recepata",
+    "hint": "Dodajte prvi recept"
+  },
+  "form": {
+    "name": "Naziv recepta",
+    "namePlaceholder": "npr. Čokoladne lava torte",
+    "emoji": "Emoji",
+    "category": "Kategorija",
+    "servings": "Porcije",
+    "servingsPlaceholder": "24 komada",
+    "time": "Vreme pripreme i pečenja",
+    "timePlaceholder": "1 sat 30 min",
+    "difficulty": "Težina",
+    "ingredients": "Sastojci (jedan po redu)",
+    "ingredientsPlaceholder": "2 šolje brašna\n1 šolja putera",
+    "steps": "Koraci (jedan po redu)",
+    "stepsPlaceholder": "Zagrejte rernu na 180°C\nPomešajte suve sastojke",
+    "notes": "Napomene / Saveti",
+    "notesPlaceholder": "Najbolje sveže"
+  },
+  "difficulty": {
+    "easy": "Lako",
+    "medium": "Srednje",
+    "advanced": "Napredno"
+  },
+  "toast": {
+    "added": "Recept sačuvan! 📖",
+    "updated": "Recept ažuriran ✓",
+    "deleted": "Recept obrisan"
+  },
+  "deleteConfirm": "Obrisati ovaj recept?"
+}

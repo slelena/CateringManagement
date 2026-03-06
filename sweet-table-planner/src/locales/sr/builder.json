@@ -1,0 +1,23 @@
+{
+  "title": "Kreator slatkog stola",
+  "subtitle": "Dizajnirajte savršen raspored",
+  "summary": "Pregled stola",
+  "assignToEvent": "Dodeli događaju",
+  "costTotal": "Ukupni troškovi",
+  "markup": "Marža %",
+  "clientPrice": "Cena za klijenta",
+  "profit": "Vaša zarada",
+  "saveToEvent": "Sačuvaj za događaj",
+  "clearTable": "Obriši sto",
+  "clearConfirm": "Obrisati sve odabrane stavke?",
+  "emptyState": {
+    "message": "Nema stavki",
+    "hint": "Dodajte stavke u Podešavanjima"
+  },
+  "summaryEmpty": "Odaberite stavke za kreiranje stola",
+  "toast": {
+    "saved": "Sačuvano za događaj! 🍰",
+    "selectEvent": "Molimo odaberite događaj",
+    "addItems": "Najpre dodajte stavke"
+  }
+}

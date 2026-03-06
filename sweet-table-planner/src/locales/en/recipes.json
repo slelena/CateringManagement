@@ -1,0 +1,43 @@
+{
+  "title": "Recipes",
+  "subtitle": "Your personal recipe book",
+  "addRecipe": "Add Recipe",
+  "editRecipe": "Edit Recipe",
+  "searchPlaceholder": "Search recipes...",
+  "selectRecipe": "Select a recipe to view it",
+  "ingredients": "Ingredients",
+  "steps": "Steps",
+  "tips": "Tips & Notes",
+  "emptyState": {
+    "message": "No recipes yet",
+    "hint": "Add your first recipe"
+  },
+  "form": {
+    "name": "Recipe Name",
+    "namePlaceholder": "e.g. Chocolate Lava Cakes",
+    "emoji": "Emoji",
+    "category": "Category",
+    "servings": "Servings",
+    "servingsPlaceholder": "24 pieces",
+    "time": "Prep + Bake Time",
+    "timePlaceholder": "1 hr 30 min",
+    "difficulty": "Difficulty",
+    "ingredients": "Ingredients (one per line)",
+    "ingredientsPlaceholder": "2 cups flour\n1 cup butter",
+    "steps": "Steps (one per line)",
+    "stepsPlaceholder": "Preheat oven to 350°F\nMix dry ingredients",
+    "notes": "Notes / Tips",
+    "notesPlaceholder": "Best served fresh"
+  },
+  "difficulty": {
+    "easy": "Easy",
+    "medium": "Medium",
+    "advanced": "Advanced"
+  },
+  "toast": {
+    "added": "Recipe saved! 📖",
+    "updated": "Recipe updated ✓",
+    "deleted": "Recipe deleted"
+  },
+  "deleteConfirm": "Delete this recipe?"
+}

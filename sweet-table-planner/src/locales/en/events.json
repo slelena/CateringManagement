@@ -1,0 +1,50 @@
+{
+  "title": "Events",
+  "subtitle": "Manage your catering bookings",
+  "newEvent": "New Event",
+  "editEvent": "Edit Event",
+  "addEvent": "Add Event",
+  "saveChanges": "Save Changes",
+  "emptyState": {
+    "message": "No events yet",
+    "hint": "Click New Event to add your first booking"
+  },
+  "card": {
+    "client": "Client",
+    "guests": "Guests",
+    "price": "Price"
+  },
+  "form": {
+    "eventName": "Event Name",
+    "eventNamePlaceholder": "e.g. Sofia's Birthday",
+    "clientName": "Client Name",
+    "clientNamePlaceholder": "Client full name",
+    "date": "Date",
+    "guests": "Guests",
+    "eventType": "Event Type",
+    "status": "Status",
+    "notes": "Notes",
+    "notesPlaceholder": "Theme, special requests..."
+  },
+  "types": {
+    "birthday": "Birthday",
+    "babyShower": "Baby Shower",
+    "wedding": "Wedding",
+    "bridalShower": "Bridal Shower",
+    "graduation": "Graduation",
+    "corporate": "Corporate",
+    "other": "Other"
+  },
+  "status": {
+    "planning": "Planning",
+    "confirmed": "Confirmed",
+    "pending": "Pending",
+    "completed": "Completed"
+  },
+  "toast": {
+    "added": "Event added! 🎉",
+    "updated": "Event updated ✓",
+    "deleted": "Event deleted"
+  },
+  "deleteConfirm": "Delete this event?"
+}

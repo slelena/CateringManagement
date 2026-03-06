@@ -1,0 +1,41 @@
+{
+  "title": "Podešavanja",
+  "subtitle": "Upravljajte stavkama i kategorijama slatkog stola",
+  "categories": {
+    "title": "Kategorije",
+    "namePlaceholder": "npr. Peciva",
+    "emojiPlaceholder": "🥐",
+    "addButton": "Dodaj",
+    "deleteConfirm": "Obrisati ovu kategoriju?",
+    "hasItemsError": "Najpre uklonite stavke iz ove kategorije"
+  },
+  "items": {
+    "title": "Sve stavke",
+    "all": "Sve",
+    "addTitle": "Dodaj novu stavku",
+    "editTitle": "Uredi stavku",
+    "namePlaceholder": "npr. Čokoladni tartufi",
+    "costPlaceholder": "2.50",
+    "unitPlaceholder": "komad / tanjir / kg",
+    "notesPlaceholder": "npr. Sezonski, bez glutena...",
+    "saveChanges": "Sačuvaj izmene",
+    "addItem": "Dodaj stavku",
+    "deleteConfirm": "Obrisati ovu stavku?",
+    "emptyState": "Nema stavki u ovoj kategoriji"
+  },
+  "form": {
+    "name": "Naziv stavke",
+    "cost": "Vaša cena ($)",
+    "unit": "Jedinica",
+    "category": "Kategorija",
+    "emoji": "Emoji ikonica",
+    "notes": "Napomene (opciono)"
+  },
+  "toast": {
+    "categoryAdded": "Kategorija dodata! 🗂",
+    "categoryDeleted": "Kategorija obrisana",
+    "itemAdded": "Stavka dodata! 🍬",
+    "itemUpdated": "Stavka ažurirana ✓",
+    "itemDeleted": "Stavka obrisana"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "greeting": "Dobro jutro! 🌸",
+  "subtitle": "Pregled vašeg keteringa",
+  "stats": {
+    "totalEvents": "Ukupno događaja",
+    "totalRevenue": "Ukupan prihod",
+    "thisMonth": "Ovog meseca",
+    "avgPrice": "Prosečna cena"
+  },
+  "upcomingEvents": "Predstojeći događaji",
+  "emptyState": {
+    "message": "Nema predstojećih događaja",
+    "hint": "Dodajte prvi događaj na stranici Događaji"
+  }
+}
