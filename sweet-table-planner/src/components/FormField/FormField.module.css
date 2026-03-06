@@ -1,0 +1,20 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: 13px;
+}
+
+.label {
+  font-size: 0.76rem;
+  color: var(--rose);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.error {
+  font-size: 0.76rem;
+  color: #b94040;
+  margin-top: 2px;
+}
