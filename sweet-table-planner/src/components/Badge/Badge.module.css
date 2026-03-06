@@ -1,0 +1,27 @@
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  padding: 3px 9px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+.confirmed {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.pending {
+  background: #fff3e0;
+  color: #e65100;
+}
+
+.planning {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.completed {
+  background: #f3e5f5;
+  color: #6a1b9a;
+}
