@@ -3,9 +3,9 @@ import type { EventStatus, EventType } from '@/types'
 export function getEventTypeOptions(t: (key: string) => string) {
   return [
     { value: 'birthday', label: t('types.birthday') },
-    { value: 'baby_shower', label: t('types.babyShower') },
+    { value: 'baby_shower', label: t('types.baby_shower') },
     { value: 'wedding', label: t('types.wedding') },
-    { value: 'bridal_shower', label: t('types.bridalShower') },
+    { value: 'bridal_shower', label: t('types.bridal_shower') },
     { value: 'graduation', label: t('types.graduation') },
     { value: 'corporate', label: t('types.corporate') },
     { value: 'other', label: t('types.other') },

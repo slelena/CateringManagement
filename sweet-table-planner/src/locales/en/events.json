@@ -28,9 +28,9 @@
   },
   "types": {
     "birthday": "Birthday",
-    "babyShower": "Baby Shower",
+    "baby_shower": "Baby Shower",
     "wedding": "Wedding",
-    "bridalShower": "Bridal Shower",
+    "bridal_shower": "Bridal Shower",
     "graduation": "Graduation",
     "corporate": "Corporate",
     "other": "Other"

@@ -28,9 +28,9 @@
   },
   "types": {
     "birthday": "Rođendan",
-    "babyShower": "Baby shower",
+    "baby_shower": "Baby shower",
     "wedding": "Venčanje",
-    "bridalShower": "Devojacko veče",
+    "bridal_shower": "Devojacko veče",
     "graduation": "Matura",
     "corporate": "Korporativni",
     "other": "Ostalo"
