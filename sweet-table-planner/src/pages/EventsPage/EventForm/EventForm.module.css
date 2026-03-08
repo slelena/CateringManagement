@@ -1,0 +1,27 @@
+.field {
+  margin-bottom: 13px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 13px;
+}
+
+.actions {
+  display: flex;
+  gap: 9px;
+  margin-top: 20px;
+}
+
+.actions button {
+  flex: 1;
+  justify-content: center;
+}
+
+@media (max-width: 480px) {
+  .row {
+    grid-template-columns: 1fr;
+  }
+}
