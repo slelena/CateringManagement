@@ -9,13 +9,7 @@ interface ModalProps {
   className?: string
 }
 
-export default function Modal({
-  title,
-  isOpen,
-  onClose,
-  children,
-  className,
-}: ModalProps) {
+export default function Modal({ title, isOpen, onClose, children, className }: ModalProps) {
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose()
@@ -30,11 +24,16 @@ export default function Modal({
     <div className={styles.overlay} onClick={onClose}>
       <div
         className={[styles.modal, className].filter(Boolean).join(' ')}
-        onClick={e => e.stopPropagation()}
+        onClick={(e) => e.stopPropagation()}
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-title"
       >
         <div className={styles.header}>
           <h2 className={styles.title}>{title}</h2>
-          <button className={styles.close} onClick={onClose}>✕</button>
+          <button className={styles.close} onClick={onClose}>
+            ✕
+          </button>
         </div>
         {children}
       </div>
